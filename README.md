@@ -21,12 +21,15 @@ Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnol
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hallancma&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallancma&layout=compact&count_private=true&theme=gruvbox" />
-<br>
-<br>
+
+
+
 ## 📫 Entre em contato
 - **[LinkedIn](https://www.linkedin.com/in/hallan-christian/)**: Conecte-se comigo no LinkedIn para uma visão mais ampla da minha experiência profissional e realizações.
 - **[Email](mailto:hallancma@gmail.com)**: Sinta-se à vontade para me enviar um e-mail para discussões profissionais ou colaborações.
 
+
+
 ---
-<br>
+
 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e não hesite em entrar em contato para qualquer consulta ou colaboração.
