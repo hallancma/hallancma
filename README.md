@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnologia e profissional dedicado, com uma paixão profunda por desenvolvimento de software e soluções inovadoras. Aqui, você encontrará uma variedade de projetos que refletem meu compromisso com a excelência, aprendizado contínuo e contribuição para a comunidade tecnológica.
 
-/*### 👀 Estou buscando uma vaga no momento 👀*/
+/* ### 👀 Estou buscando uma vaga no momento 👀 */
 
 ## ⚡ Habilidades
 - Desenvolvimento Android (Java e Kotlin)
