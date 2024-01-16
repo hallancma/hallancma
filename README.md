@@ -2,18 +2,20 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnologia e profissional dedicado, com uma paixão profunda por desenvolvimento de software e soluções inovadoras. Aqui, você encontrará uma variedade de projetos que refletem meu compromisso com a excelência, aprendizado contínuo e contribuição para a comunidade tecnológica.  
 ## ⚡ Habilidades
-- Desenvolvimento Android (Java e Kotlin)
-- Arquiteturas MVC, MVP, MVVM
+- Oracle APEX
+- PHP
+- Node JS
+- Oracle, Mysql e PostgreSQL 
+- HTML
+- CSS
+- JavaScript
+- Experiência em design de modelos conceituais e modelagem de dados
+- Experiência em migração de dados
+- Conhecimento de metodologias e ferramentas ágeis (Scrum/Kanban, Jira)
 - Clean Architecture
-- Injeção de dependências com Hilt
-- APis com Retrofit, Coroutines
-- Service e Broadcast
-- SOLID
+- APis
 - Git e GitHub
-- Firebase, SQLite e SQL
-- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
-- Testes unitários e de integração
-- Scrum
+
 ## ⚡ GitHub Stats
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=hallancma&show_icons=true&count_private=true&theme=gruvbox" /> -->
