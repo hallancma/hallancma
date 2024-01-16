@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá, sou o Hallan Chrisitian 👨‍💻
 
-<!--
-**hallancma/hallancma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnologia e profissional dedicado, com uma paixão profunda por desenvolvimento de software e soluções inovadoras. Aqui, você encontrará uma variedade de projetos que refletem meu compromisso com a excelência, aprendizado contínuo e contribuição para a comunidade tecnológica.
 
-Here are some ideas to get you started:
+### 👀 Estou buscando uma vaga no momento 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Habilidades
+- Desenvolvimento Android (Java e Kotlin)
+- Arquiteturas MVC, MVP, MVVM
+- Clean Architecture
+- Injeção de dependências com Hilt
+- APis com Retrofit, Coroutines
+- Service e Broadcast
+- SOLID
+- Git e GitHub
+- Firebase, SQLite e SQL
+- Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
+- Testes unitários e de integração
+- Scrum
+
+## 📫 Entre em contato
+- **[LinkedIn](https://www.linkedin.com/in/hallan-christian/)**: Conecte-se comigo no LinkedIn para uma visão mais ampla da minha experiência profissional e realizações.
+- **[Email](mailto:hallancma@gmail.com)**: Sinta-se à vontade para me enviar um e-mail para discussões profissionais ou colaborações.
+
+---
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e não hesite em entrar em contato para qualquer consulta ou colaboração.
