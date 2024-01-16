@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnol
 
 ## 📫 Entre em contato
 [![Linkedin Badge](https://img.shields.io/badge/-hallancma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hallan-christian/)](https://www.linkedin.com/in/hallan-christian/)
-[![Gmail Badge](https://img.shields.io/badge/-hallancma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hallancma@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hallancma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hallancma@gmail.com)](mailto:hallancma@gmail.com)
 
 
 ---
