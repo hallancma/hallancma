@@ -3,6 +3,7 @@
 Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnologia e profissional dedicado, com uma paixão profunda por desenvolvimento de software e soluções inovadoras. Aqui, você encontrará uma variedade de projetos que refletem meu compromisso com a excelência, aprendizado contínuo e contribuição para a comunidade tecnológica.  
 ## ⚡ Habilidades
 - Oracle APEX
+- PL/SQL
 - PHP
 - Node JS
 - Oracle, Mysql e PostgreSQL 
