@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnol
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hallancma&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallancma&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hallancma&theme=gruvbox" />  
+
 
  
 
