@@ -24,7 +24,8 @@ Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnol
 ## 📫 Entre em contato
 ## 📫 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallancma/)
-**[Email](mailto:hallancma@gmail.com)**: Sinta-se à vontade para me enviar um e-mail para discussões profissionais ou colaborações.
+[![Contact Me](https://img.shields.io/badge/Contact-Me-brightgreen)](mailto:seuemail@gmail.com)
+``
 
 
 
