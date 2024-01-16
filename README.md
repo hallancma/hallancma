@@ -1,9 +1,6 @@
 # Olá, sou o Hallan Chrisitian 👨‍💻
 
-Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnologia e profissional dedicado, com uma paixão profunda por desenvolvimento de software e soluções inovadoras. Aqui, você encontrará uma variedade de projetos que refletem meu compromisso com a excelência, aprendizado contínuo e contribuição para a comunidade tecnológica.
-
-/* ### 👀 Estou buscando uma vaga no momento 👀 */
-
+Bem-vindo ao meu perfil no GitHub! Sou Hallan Christian, um entusiasta da tecnologia e profissional dedicado, com uma paixão profunda por desenvolvimento de software e soluções inovadoras. Aqui, você encontrará uma variedade de projetos que refletem meu compromisso com a excelência, aprendizado contínuo e contribuição para a comunidade tecnológica.  
 ## ⚡ Habilidades
 - Desenvolvimento Android (Java e Kotlin)
 - Arquiteturas MVC, MVP, MVVM
